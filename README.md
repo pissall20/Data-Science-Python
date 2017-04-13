@@ -9,3 +9,5 @@ Simple Linear Regression : Salaries.csv
 Multiple Linear Regression : 50_Startups.csv
 
 Rest of the Regression models : Position_Salaries.csv
+
+Classification models : Social_Network_Ads.csv
